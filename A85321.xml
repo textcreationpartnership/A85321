@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first part of the last wil &amp; testament of Philip Earle of Pembrooke and Montgomery, Lord of Saint Quintin, &amp;c. now Knight of Berk-shire, dictated by his own mouth, and took by Mr. Michael Oldsworth sometime his Lps secretary, and faithfully engrossed; together with all his Lps. penitent considerations, (delivered in most patheticall expressions) upon every particular of his goods, catttels [sic], chattels, moveable and inmoveable, that are designed in legacy to sundry particular persons of most eminent and remarkable quality. The second part to the same tune, will speedily be exhibited to publique view, as soon as it can be possibly transcribed; / by his Lps most devoted honour. Mercurius Elencticus.</title>
+            <author>Mercurius Elenticus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85321</idno>
+            <idno type="STC">Wing F978A</idno>
+            <idno type="STC">Thomason E555_5</idno>
+            <idno type="STC">ESTC R5963</idno>
+            <idno type="EEBO-CITATION">99872929</idno>
+            <idno type="PROQUEST">99872929</idno>
+            <idno type="VID">165098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first part of the last wil &amp; testament of Philip Earle of Pembrooke and Montgomery, Lord of Saint Quintin, &amp;c. now Knight of Berk-shire, dictated by his own mouth, and took by Mr. Michael Oldsworth sometime his Lps secretary, and faithfully engrossed; together with all his Lps. penitent considerations, (delivered in most patheticall expressions) upon every particular of his goods, catttels [sic], chattels, moveable and inmoveable, that are designed in legacy to sundry particular persons of most eminent and remarkable quality. The second part to the same tune, will speedily be exhibited to publique view, as soon as it can be possibly transcribed; / by his Lps most devoted honour. Mercurius Elencticus.</title>
+                  <author>Mercurius Elenticus.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Pembroke and Oldisworth.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>A different work from "The last will &amp; testament of Philip Herbert" or "The last will and testament of the Earl of Pembroke".</note>
+                  <note>No more published?.</note>
+                  <note>Annotation on Thomason copy: "May 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Humor --  Early works to 1800.</term>
+               <term>Oldisworth, Michael, 1591-1654? --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165098:1" rendition="simple:additions"/>
+            <p>The firſt part of the laſt WIL &amp; TESTAMENT OF PHILIP Earle of <hi>Pembrooke</hi> and <hi>Montgomery,</hi> Lord of Saint <hi>Quintin,</hi> &amp;c.</p>
+            <p>NOW KNIGHT of <hi>BERK-SHIRE,</hi> Dictated by his own mouth, and took by Mr. <hi>Michael Oldſworth</hi> ſometime his L<hi rend="sup">ds</hi>
+               <hi>Secretary,</hi> and faithfully engroſſed; together with all his L<hi rend="sup">ds</hi>. penitent conſiderations, (delivered in moſt patheticall expreſſions) upon every particular of his Goods, Catttels, Chattels, moveable and inmoveable, that are de<g ref="char:EOLhyphen"/>figned in Legacy to ſundry particular perſons of moſt eminent and remarkable quality.</p>
+            <p>The ſecond part to the ſame tune, will ſpeedily be exhibited to publique view, as ſoon as it can be poſſibly Tranſcribed; By his L<hi rend="sup">ds</hi> moſt Devoted Honour.</p>
+            <p>
+               <hi>Mercurius Elencticus.</hi>
+            </p>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165098:2"/>
+            <pb facs="tcp:165098:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>MY Lord deſiring to diſcover his Charitable and zealous intentions to the world, (more for preſident then oſtentation) and at his laſt gaſpe re<g ref="char:EOLhyphen"/>ſolving to breath forth ſome pithy ſentences, (fit to be committed to poſterity inſtead of proverbs) that might ſpeake him to eternity, as full of wiſdom as worthineſſe and honour, I here tender thee (by his Lordſhips appointment) the <hi>First part of his laſt Will and Teſtament;</hi> pray make much of this, till the reſt is delivered to thee, under his owne Hand and Seale.</p>
+            <lg>
+               <l>In the mean time, weigh but each word with heed,</l>
+               <l>You'le thinke his Lordſhip meanes to dye indeed;</l>
+               <l>For by theſe gifts, I find he truſts to merit</l>
+               <l>All th' heaven that e're's capacity'le inherit;</l>
+               <l>Nay in pure love, he is reſolv'd to ſhow</l>
+               <l>The Parliament the way they all must goe:</l>
+               <l>If he live longer, 'twill but vex the Devil</l>
+               <l>That ſuch a foole ſhould outwork him in evill.</l>
+               <l>Nay if he lives but to review this Will,</l>
+               <l>The kindneſſe on't his very heart will kill:</l>
+               <l>I hope his <hi>Elegie</hi> and <hi>Epitaph</hi>
+               </l>
+               <l>After the ſecond part on's Will, ſhall make you laugh.</l>
+               <l>And when we know his qualities, and riches,</l>
+               <l>Ile gage my braine-pan you'le be-piſſe your Breeches.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="will_and_testament">
+            <pb facs="tcp:165098:3"/>
+            <head>The firſt part of the laſt WILL &amp; TESTAMENT OF PHILIP Earle of <hi>Pembrook &amp; Montgomery,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Philip Herbert</hi> of the <hi>Tilte-yard,</hi> in the Country of Saint <hi>James's</hi> Parke, lying very ſick and weak. Here Mr.
+<hi>Oldſ<g ref="char:EOLhyphen"/>worth</hi> ſtop'd him, My Lord quoth he, you ſhould have begun in the Name of God. Dam me you Rogue, why do you Interupt me? is't not too late to begin with him now? I han't ſpoke with him ne're ſince I uſed to ſing Pſalmes in the Kings Chappel, ſome eight years agoe, and doſt thinke he has not other things to think on beſides my buſineſſe, I ne're medled with his Will, and why ſhould he have any hand in mine; Mr.
+<hi>Spea<g ref="char:EOLhyphen"/>ker</hi> knows, I have more mind to make him my Executor (or the Devil take me elſe) I promiſed him ſo when he got me into the Houſe of Commons; and beſides, Mr. <hi>Speaker</hi> has reaſon to love me better then he, becauſe he knows me better; the Parliament would count me a Cockſcomb to forſake them at laſt caſt, and give my Meanes to one that I ſhall never ſee for ought I know: <hi>Mihill</hi> I thought th' hadſt had more wit then to perſwade me to any thing but what I am bound to by Act of Parliament, and I am ſure there's ne're a ſuch a word in any of them by my conſent, or ever ſhall be; therefore pray hold your tongue and let me ſpeake my own purpoſe, and do you write it down, right or wrong; when you lye a dying (as I do) if you'le teach me to Write, Ile do your will to your mind.</p>
+            <p>But yet in perfect health and memory do make and (pox confound theſe hard words) proſtitute this my laſt Will and Teſtament, and hereby doe invoke and make voide all other Gifts, (the Devil a one I remember) Grants, Conveyances (and mine were never cleanly ones, for when I jug<g ref="char:EOLhyphen"/>led my ſelf out of one Houſe intoth' tother, all the Towne tooke notice of my ſhuffling under board) Wils and Teſtaments whatſoever.</p>
+            <sp>
+               <speaker>Oldſw.</speaker>
+               <p>Former, my Lord, you muſt ſay, Former Wils.</p>
+            </sp>
+            <sp>
+               <speaker>Pemb.</speaker>
+               <p>Why did I ever lye a dying afore you foole you? won't one Will
+<pb facs="tcp:165098:3"/> ſerve turn; you woo'd have me hang'd for making a new Letanie of re<g ref="char:EOLhyphen"/>pealed wils and Teſtaments; woo'd ye?</p>
+               <p>
+                  <hi>Imprimis,</hi> I give and bequeath my beſt pack of dogs —</p>
+            </sp>
+            <sp>
+               <speaker>Oldſw.</speaker>
+               <p>My Lord, do you remember what to do with your ſoul and body firſt?</p>
+            </sp>
+            <sp>
+               <speaker>Pemb.</speaker>
+               <p>Vengeance dam ye for a confounded Cur, I could find in my heart to daſh a piſpot in your ugly face; ſo ye'd ſerve me an I were at praiers, but I'le ſee ye hang'd before I'le try ye: Can I tel who ſhal have my body or ſoul either? Have I been Maſter of my ſelf e're ſince I was born? Did not I pawn my ſoul and ſalvation too, long ſince to the King (though I ne're hop'd to redeem it) when I was made his turn-key? And did not the Parlia<g ref="char:EOLhyphen"/>ment get it out on's cluches into their paws, e're they would make me their Porter to carry Packets of Propoſitions to, and again? They may do what they wil with't; for my part, I ne're made much uſe on't, becauſe I ne're knew wel what it was: For my body, I mean to keep it my ſelf as long as I can, I'le give every thing elſe away to the Devil himſelf, rather then part with my Carcaſſe; I'me ſure my Confectionarie's Bill t'other day came to 100l. and I'de fain fatten my kidneys with thoſe ſweet meats before I die, for fear they grow mouldy: I have no mind to feed upon gravel yet; an' my conſcience the <hi>pigmies</hi> do, and that makes them ſuch dwarfs: I'de ra<g ref="char:EOLhyphen"/>ther go to hel, or purgatory, where there's room enough for a coach and ſix horſes to turn, then be mew'd up under ground, where a man cannot ſwing and Cat; but prethee hold thy tongue, and let's mind our buſineſſe, for I ſhan't die in quiet, til I ſee my dogs provided for.</p>
+               <p>My beſt pack of dogs to <hi>Oliver Cromwel,</hi> for he keeps bloud-hounds ſo wel fleſh'd and fierce, they're able to tear out the Devils throat: I won<g ref="char:EOLhyphen"/>der what he feeds with them, now ox livers are ſo dear.</p>
+               <p>
+                  <hi>Item,</hi> I bequeath two couple of my beſt ſpaniels to my Lord of <hi>Denbigh,</hi> for hee'l ſtand gazing like a moap'd Buzzard, and gape wide enough for a Hawk to ſhit in's mouth, whil'ſt a Partridge is upon replinie: ſtoo bird, ſtoo bird, O 'tis gallant game; I wonder whether there be any Haws in Hel; an' I thought there were not, I'de ſend half a ſcore thither a mewing by <hi>Tom</hi> my Faulkner againſt I come, I ſhall ne're endure to be idle there.</p>
+            </sp>
+            <sp>
+               <speaker>Oldſw.</speaker>
+               <p>You left at <hi>There,</hi> my Lord.</p>
+            </sp>
+            <p>There rogue, what ſhall I do without thee there? Thou muſt needs make me a ſpeech to carry I' my pocket, I'le con't by the way; they ſay the De<g ref="char:EOLhyphen"/>vil's a good Scholar, he hope <hi>Harry Martin</hi> to anſwer the Scots papers, and make the Declaration of Non-Addreſſes to His Majeſtie: They ſay his Se<g ref="char:EOLhyphen"/>cretarie pen'd that pithy Oration that
+<hi>Bradſhaw</hi> made before the ſentence: Hang't, I ſhall ne're come off, without thou promptſt me, hee'l daſh me out a countenance, becauſe he ſpeaks Latin; juſt as he does the poor rogues that cannot reade their neck-verſe before my Lord Judge: — Confound me, if he angers me too much, I'le ſwear his houſe about's ears, if I can but get my Lord Generals paſſe to run back again; if he denies that, I'de beſt take a file of musketeers we' me, and bring him before the Councel of War, to anſwer the contempt: But come, diſpatch <hi>Mihil,</hi> prethee write on, thou art ſo tedious, I doubt I ſhall not get this Will ingroſſed time e<g ref="char:EOLhyphen"/>nough
+<pb facs="tcp:165098:4"/> to take a Copy out we' me; for I mean to ſue my Executers there for non performance, if I can entertain Mr <hi>Chute,</hi> or Mr
+<hi>Whitlock,</hi> for my Councel, and Sergeant <hi>Wild</hi> ſhall have the hearing of the cauſe; hee'l be ſure to hang 'um o' my conſcience, 'un he take 'um ta dy there, becauſe 'tis a bigger Court of Juſtice then ours in
+<hi>Weſtminſter</hi> Hall.</p>
+            <p>
+               <hi>Item,</hi> I give <hi>Badger,</hi> my beſt ſtone horſe (plague take him, for he threw me two damnable
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes one Saint <hi>George's</hi> day, I ne're daw'd it ſince) to Colonel <hi>Henry Martin;</hi> he has hors'd me above a 100 coach mares in's time; he has ſome pith in's back ſtil, you may ſee by his frothing and blun<g ref="char:EOLhyphen"/>dring, when ſees a handſom Beaſt; he leaps nimbly ſtil, but he comes off baſely, becauſe of an old wrinch he got with ſtraining too hard in jumping upon a great Flanders jade, too ful buttock'd for him, and upon a bank<g ref="char:EOLhyphen"/>ſide too.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my Tenor, my Baſe, and my Treble, and all my Horns, to my wel beloved Son and Heir, <hi>Philip</hi> Lord
+<hi>Herbert;</hi> his Wife can teach him to wind them, or the pox take her, for the French man has been her Tutor long enough; I lov'd the muſick wel, but I could never endure to were 'um, they made me look ſo like a ſow-gelder.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my beſt lacing boots to Mr
+<hi>Speaker</hi> (rot on 'um, I never wore 'um, but men thought I had got the gout for the ſpavin; they'l ne're ſuſpect him, becauſe he limps o'th' toe ſide like a Craw-fiſh.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my rich Sedan — woons, I'de fain be rid on't, becauſe they carried the King to triall in't; I ne're ſate in't ſince, but I was ready to beſhit my ſelf for fear; an' I could but think of any body the Devil ows a ſpight to, to betray him for a Traitor, he ſhould ha't; 't may be my Lord <hi>Say</hi> wil thank me for't: Set him down in't, for he loves to take's caſe wel.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my new truſſe of points — hart, the rogues took me for a morriſ-dancer in a morning before I was truſs'd, when they came to croſſe capers, and dance attendance before my honourable Wor<g ref="char:EOLhyphen"/>ſhip: I'de beſt give them to Mr <hi>Selden</hi> to keep's codpice cloſe; hee'l wear 'um for antick faſhion ſake; he ſhall have
+<hi>Tib,</hi> my gray mare too; the Coun<g ref="char:EOLhyphen"/>teſſe of <hi>Kent</hi> knows hee'l ſtride an old gal'd jade ſo gently, that ſhee'l ne're wince at it; I cou'd find I my heart to give him her crupper too, for ſhe caſts forward damnably: Set him down for a mounter.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my great gaudy Coach (wood't had been bur<g ref="char:EOLhyphen"/>ned for me, when I ſet foot in't; I'le take my death on't, I thought the Devil had been in't, and his dam too, when I and my Lady
+<hi>Crompton</hi> rid in't laſt, it rumbled our rotten bones together like dice in a jugling box; dam 'om 'twas as bad as are of theſe confounded Strapadoes; pox on't, an' I had ne're hunted baudy houſes, I might have rid honeſtly up <hi>Holborn</hi> hil with<g ref="char:EOLhyphen"/>out any danger, but it made me tremble like a rogue as I was, to think on't, how the Traitors that ride that way are mangled, when they came at <hi>Ty<g ref="char:EOLhyphen"/>burn;</hi> and I was never ſo fraid but my quarters woo'd have been ſhoke off before I came to <hi>Hide Park</hi> corner; I'de beſt giv't) to my Lord <hi>Grey</hi> of <hi>Groby,</hi> for hee's fain to make uſe of a Hackney ſtil to ſave charges, when's
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udy rides a ranting, let him take't with a pox to him, for I have enough <pb facs="tcp:165098:4"/> on't, more then e're I ſhall well claw of.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my great gilt Bible; Fool-ſcratch 'um, the puppies took me for a Puritan; and — judge me, may I nere ſtir if I had not rather hear <hi>Bulſtrode Whitlocks</hi> Declarations read 100 times, then one of <hi>Paul Knels</hi> Sermon of execration againſt Rebels, becauſe I fumbled over the leaves, as if I meant to find the Text, though I nere knew a figure from a frying pan; I could ſtare <hi>Caryl</hi> i'th' face upon a Faſt day (like an Owl as I was) til the Gander was ready to be cackle himſelf for fear I ſhould put him out on's parrating: Tis a terrible villain ſometimes, for hee'l make a Church roar of damnation as bad as a Popes Bull, hee'l ſo be labour a poor innocent cuſhion, as if he meant to beat the brains out about's ears, as he rears up againſt the pillar — yet ſometime hee'l give's a great deal of comfort, when he was terrified us a matter of two hours together with a thundring ſtory of <hi>Cromwel's</hi> plaguy deliverances, and murdered our memo<g ref="char:EOLhyphen"/>ries with his morter-peece of deſtruction to Monarchy; then he begins to bleat peaceably towards dinner time; O tis a cunning colt, he knows how to kick us out of good manners, and make's whihy again to hear him claw into conceit with our own miſchiefs; I had beſt give him this Bible, hee'l preach nothing but Acts of Parliament, and Judge Advocate Orders out on't, to ſtrengthen the hearts of the couragious Councel of War, that they may confidently condemn the rogues without the leaſt ſcruple of ſcurvy conſcience: Set him down for a Book banger.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my beſt <hi>Cloake</hi> and
+<hi>George;</hi> vengeance of all ill luck: an I wear't any longer, the bloud thirſty will go nigh to take me for a Tyrant (as fierce a one as ere ſtood in <hi>Smithfield</hi> pens) and fix me for a blazing ſtar in the fore-head of the Firmament for the world to wonder at, how the Devil I came there againſt my will; for they knew I nere lov'd climbing (a rope fetch me if ere I did, ſo I did not) if I had, I had nere been choſen Knight of <hi>Bark ſhire</hi> by ſome twenty of my vain<g ref="char:EOLhyphen"/>glorious Tenants and Servants, that thirſted to do their Lord an honour; on my conſcience tis dangerous to be Knighted too by theſe ſlaſhing blades, for fear a mans head ſhould fall into's codpice; I could nere endure to ſee a ſword drawn, ſince I was beaten with my own hilts by a Butchers boy croſ<g ref="char:EOLhyphen"/>ſing the kennel, becauſe I, like a great Calf, muſt needs call him tallow<g ref="char:EOLhyphen"/>beard, though his face was as bald as my own pate: and though they would not hang thee in it for a counterfeit, thou ſhouldſt have my Ribbon and <hi>George,</hi> 'twas my Porters armes, or I had nere been known to ſit at the re<g ref="char:EOLhyphen"/>ceipt of cuſtom in the Parliament Houſe, and carry tickets to and fro be<g ref="char:EOLhyphen"/>tween party and party; a louſe in the pot, <hi>Mihil,</hi> is better then no fleſh; a Porters place in the Cuſtom Houſe will be good preferment for an old Parliament man, in the raign of a new Repreſentative: I alwaies liked the conceit o'th' Emblem, more then th'honour on't (for that never fitted my humour) it looks fiercely, but when ye come to touch it, tis as tame as a dotterill: And beſides ye know, when I am on horſback, I ooſe as little mo<g ref="char:EOLhyphen"/>tion as may be; on my conſcience they'l go nigh to take't for my Lord Gene<g ref="char:EOLhyphen"/>rals picture, if thou layeſt it on a bow knot in thy boſom; for hee's a man of a meek temper, or elſe he would never let <hi>Cromwel</hi> rule the roſt, while he
+<pb facs="tcp:165098:5"/> turns the ſpit, and you know your Cooks are fiery fellows. I'le give my Cloake to Sir <hi>Henry Vane,</hi> for 'twill cover more knavery then foolery; and in this time of turning things arſe upwards, the badges of honour may well become diſtinguiſhing Characters of infamy, the ſtar will illuſtrate all his contrivances; we had beſt leave off for this bout, for too much of one thing is good for nothing; I'me out of breath now, but I'le fall too't again too morrow, and give um all enough afore I have done with them, that they may pray for me, while I ſwear um all out of hell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
